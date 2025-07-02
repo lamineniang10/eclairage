@@ -1,7 +1,12 @@
 ### Titre:
 Identification des zones habitées non éclairées par croisement **GHSL-VIIRS**: cas de la commune de **Bokidiawé**
-### Objectif
-Identifier les zones habitées mais non éclairées dans la commune de **Bokidiawé** afin d'évaluer la vulnérabilité à l'obscurité nocturne et aider à la planification des infrastructures.
+### Contexte et objectif du projet
+L'accès à l'éclairage nocturne constitue un indicateur essentiel du développement et de la qualité de vie, en particulier dans les zones rurales. Dans la commune de Bokidiawé, une partie de la population vit probablement sans lumière artificille, ce qui peut accroitre la vulnerabilité en matière de sécurité, d'éducation et d'accès aus services.
+
+Ce projet a pour objectif d'identifier et de cartographier les zones **habitées mais non éclairées** à l'aide de données satellitaires. En croisant les données de population (`GHSL`), de lumière nocturne(`VIIRS`) et les limites administratives locales, il vise à :
+- quantifier les **surfaces et population concernées**
+- localiser les **poches de vulnérabilité énrgétique**
+- fournir des **outils d'aide à la décision pour les acteurs de développement territorial**.
 ### Données
 1. **VIIRS (Visible Infrared Imaging Radiometer Suite)**
    - Dataset: `NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG`. Il s'agit d'une image composite de la radiance moyenne mensuelle générée à l'aide des données nocturne de la bande Day/Night(DNB).
