@@ -8,7 +8,7 @@ Identifier les zones habitées mais non éclairées dans la commune de **Bokidia
    - Résolution: 450m
    - Bande de fréquence: `avg_rad`, valeur moyenne de la radiance DNB
 3. **GHSL (Global Humain Settlement Layer)**
-   - Dataset `JRC/GHSL/P2023A/GHS_POP/2020`. Cette ensemble de données représente la distribution spatiale de la population résidentielle, exprimée en nombre absolue d'habitants de la cellule.
+   - Dataset `JRC/GHSL/P2023A/GHS_POP`. Cette ensemble de données représente la distribution spatiale de la population résidentielle, exprimée en nombre absolue d'habitants de la cellule.
    - Résolution: 100m
    - Bande: `population_count`, représente le nombre d'habitants par pixel.
 5. **Limites administratives**: Polygons délimitant les communes du Sénégal.
