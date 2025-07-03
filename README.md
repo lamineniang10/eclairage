@@ -12,7 +12,7 @@ Ce projet a pour objectif d'identifier et de cartographier les zones **habitées
    - Dataset: `NOAA/VIIRS/DNB/MONTHLY_V1/VCMCFG`. Il s'agit d'une image composite de la radiance moyenne mensuelle générée à l'aide des données nocturne de la bande Day/Night(DNB).
    - Résolution: 450m
    - Bande de fréquence: `avg_rad`, valeur moyenne de la radiance DNB
-3. **GHSL (Global Humain Settlement Layer)**
+3. **GHSL (Global Human Settlement Layer)**
    - Dataset `JRC/GHSL/P2023A/GHS_POP`. Cette ensemble de données représente la distribution spatiale de la population résidentielle, exprimée en nombre absolue d'habitants de la cellule.
    - Résolution: 100m
    - Bande: `population_count`, représente le nombre d'habitants par pixel.
