@@ -21,7 +21,7 @@ Ce projet a pour objectif d'identifier et de cartographier les zones **habitées
 ### Plateformes et Bibliothèques
 - **Google Earth Engine(GEE)**: Plateforme cloud de traitement d'images satellites, utilisés pour les requêtes, les calculs spatiaux et l'extraction des données.
 - **Python**: Langage principal utilisé pour interagir avec GEE via l'API Python.
-- **GEEMAP**: Bibliothèque Python permettant de visualiser les données Earth Engine de manière interactive et d'exporter des cartes au format HTML.
+- **Geemap**: Bibliothèque Python permettant de visualiser les données Earth Engine de manière interactive et d'exporter des cartes au format HTML.
 - **Jupyter Notebook**: Environnement interactif de développement, idéal pour organiser les scripts, afficher les cartes, tester des extraits de code et documenter les étapes du projet.
 ### Méthodologie
 - **filtrage spatial**: Découpage de VIIRS et GHS_POP sur la commune de *Bokidiawé*.
