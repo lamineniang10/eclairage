@@ -35,7 +35,7 @@ Ce projet a pour objectif d'identifier et de cartographier les zones **habitées
   - % de la superficie des zones vulnérables (en ha)
   - Nombre estimé d'habitants concernés
 ### Résultat
-➡️ Tous les détails sont disponibles dans le notebook `.ipynb`. et les figures dans le dossier `docs`
+➡️ Tous les détails sont disponibles dans le notebook `.ipynb` et les images dans le dossier `docs`
 ### Contributions
 Toutes les suggestions, retours, ou contributions sont les bienvenus afin d'améliorer et enrichir ce projet.
 ### Contact
